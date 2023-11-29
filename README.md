@@ -44,6 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![WhatsApp Image 2023-11-29 at 08 30 20 (1)](https://github.com/vatsan143/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147368204/dbeed475-5711-4d43-91e7-008e9326d727)
+![WhatsApp Image 2023-11-29 at 08 30 21](https://github.com/vatsan143/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147368204/95b12fe8-3be0-4dbe-b6be-95f9a58f3d56)
+![WhatsApp Image 2023-11-29 at 08 30 20](https://github.com/vatsan143/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147368204/69aa166a-b244-4425-a43c-76a55087f219)
 
 ### Name:
 ### Register Number:
